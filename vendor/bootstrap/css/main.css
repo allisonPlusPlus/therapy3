@@ -5,3 +5,8 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.quote {
+  font-family: 'Indie Flower', cursive;
+  font-size: 22px;
+}
