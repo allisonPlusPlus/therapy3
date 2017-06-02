@@ -1,11 +1,7 @@
 body {
-    background: url('/Users/allisonbrett/Projects/Therapy3/1918.jpeg') no-repeat center center fixed;
+    background: url('https://github.com/allisonPlusPlus/therapy3/blob/master/1918.jpeg?raw=true') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-.test {
-  color: red;
 }
