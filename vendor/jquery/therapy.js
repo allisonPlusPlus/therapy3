@@ -3,6 +3,7 @@
    $("#h2").hide().fadeIn(2000);
    $("blockquote").hide().fadeIn(3000);
    $(".profile").hide().fadeIn(2000);
+   $(".aboutme").hide().fadeIn(3000);
 
 
 
