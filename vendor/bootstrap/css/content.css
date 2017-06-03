@@ -19,3 +19,10 @@ body {
 #h1 {
     font-family: 'Indie Flower', cursive;
 }
+
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
