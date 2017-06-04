@@ -44,3 +44,11 @@ address {
   font-size: 35px;
   vertical-align: text-bottom;
 }
+
+.phone a {
+  color: black;
+}
+
+.phone a:hover {
+  text-decoration: none;
+}
