@@ -35,3 +35,7 @@ body {
   height: 400px;
   background-color: grey;
 }
+
+address {
+  font-weight: bold;
+}

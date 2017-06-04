@@ -84,37 +84,41 @@
                     <div id="map">
                     </div>
                     <script>
-      function initMap() {
-        var uluru = {lat: 37.984316 , lng: -122.049092,};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 15,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIHgAUCHWyMlZ6eEduZRsnSmQQqZZyF1U&callback=initMap">
-    </script>
+                        function initMap() {
+                            var uluru = {
+                                lat: 37.984316,
+                                lng: -122.049092,
+                            };
+                            var map = new google.maps.Map(document.getElementById('map'), {
+                                zoom: 15,
+                                center: uluru
+                            });
+                            var marker = new google.maps.Marker({
+                                position: uluru,
+                                map: map
+                            });
+                        }
+                    </script>
+                    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIHgAUCHWyMlZ6eEduZRsnSmQQqZZyF1U&callback=initMap">
+                    </script>
+                    <address>2401 Stanwell Dr. Suite 480 #8 Concord, CA 94520
+                    </address>
+                </div>
             </div>
         </div>
+
+
+
+
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/tether/tether.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- therapy.js -->
+        <script src="vendor/jquery/therapy.js"></script>
+
     </div>
-
-
-
-
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/tether/tether.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- therapy.js -->
-    <script src="vendor/jquery/therapy.js"></script>
-
-</div>
 
 </body>
 
