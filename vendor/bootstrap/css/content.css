@@ -39,3 +39,8 @@ body {
 address {
   font-weight: bold;
 }
+
+.number {
+  font-size: 40px;
+  vertical-align: text-bottom;
+}
