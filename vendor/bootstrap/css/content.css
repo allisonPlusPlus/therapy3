@@ -45,10 +45,17 @@ address {
   vertical-align: text-bottom;
 }
 
-.phone a {
+.contact a {
   color: black;
 }
 
-.phone a:hover {
+.contact a:hover {
   text-decoration: none;
+}
+
+.mail {
+  font-size: 35px;
+  vertical-align: top;
+  margin-left: 5px;
+  margin-top: 20px;
 }
