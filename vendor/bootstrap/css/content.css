@@ -20,9 +20,12 @@ body {
     font-family: 'Indie Flower', cursive;
 }
 
-
 .center-block {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.ul {
+  margin-bottom: 15px;
 }
