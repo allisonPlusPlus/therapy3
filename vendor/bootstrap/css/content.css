@@ -53,9 +53,6 @@ address {
   text-decoration: none;
 }
 
-.mail {
-  font-size: 35px;
-  vertical-align: top;
-  margin-left: 5px;
-  margin-top: 20px;
+.email {
+  margin-top: 15px;
 }
