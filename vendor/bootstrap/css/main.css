@@ -20,6 +20,10 @@ body {
 
 
 .quote {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Kaushan Script', cursive;
   font-size: 30px;
+}
+
+author {
+  font-size: 20px;
 }
