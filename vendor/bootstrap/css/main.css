@@ -17,11 +17,9 @@ body {
     -o-background-size: cover;
 }
 
-.tagline {
-  margin-top: 5px;
-}
+
 
 .quote {
   font-family: 'Indie Flower', cursive;
-  font-size: 20px;
+  font-size: 30px;
 }
