@@ -18,7 +18,9 @@ body {
     -o-background-size: cover;
 }
 
-
+.h1 {
+  font-family: 'Artifika', serif;
+}
 
 .profile {
   height: 250px;
