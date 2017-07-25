@@ -22,6 +22,10 @@ body {
   margin-top: 5px;
 }
 
+p {
+  margin-bottom: 0px;
+}
+
 .quote {
   font-family: 'Kaushan Script', cursive;
   font-size: 20px;
